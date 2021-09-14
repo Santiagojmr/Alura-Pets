@@ -12,10 +12,7 @@ A base de dados consiste em 3 arquivos: 1 TXT - 1 Sheets - 3 CSV
 **Tabela de Pedidos**
 
 ●
-
 ●
-
 ●
-
 ●
 
