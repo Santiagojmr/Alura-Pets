@@ -6,24 +6,29 @@ Alura pets me contratou para fazer algumas análises, atualmente eles têm uma l
 
 <h1>Base de Dados</h1>
 
-A base de dados consiste em 3 arquivos: 1 TXT - 1 Sheets - 3 CSV
+A base de dados consiste em 3 arquivos com a seguinte estrutura: 1 TXT - 1 Sheets - 3 CSV
 
 
 **Tabela de Pedidos**
 
-●Faturamento total
+● Faturamento total
 
-●Qtd produtos vendidos
+● Qtd produtos vendidos
 
-●Média pets / clientes
+● Média pets / clientes
 
-●Data de compra
+● Data de compra
 
-●Marca
+● Marca
 
-●Faturamento total por gênero 
+● Faturamento total por gênero 
 
-●Faturamento total por bairro
+● Faturamento total por bairro
 
-●Faturamento total por mês e ano
+● Faturamento total por mês e ano
 
+<h1>Ferramentas Utilizadas no Projeto</h1>
+Foi utilizado apenas o Power BI para o desenvolvimento do Dashboard
+
+<h1>Link do Dashboard<h1>
+  https://app.powerbi.com/view?r=eyJrIjoiMTc0NGNmZmUtYjQ2My00ZGE1LWIzYTYtNmQ2M2ZhZTc2YmU1IiwidCI6ImMwNjVkZTE0LTE3NWItNGVjMi1hMmZiLTlkMzNiZWUzNDgyZSJ9&pageName=ReportSection
